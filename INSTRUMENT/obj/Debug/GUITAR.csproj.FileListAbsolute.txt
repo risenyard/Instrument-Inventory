@@ -1,0 +1,88 @@
+C:\Users\risen\OneDrive\QUATER ONE\GISOS3\GUITAR\bin\Debug\GUITAR.exe.config
+C:\Users\risen\OneDrive\QUATER ONE\GISOS3\GUITAR\bin\Debug\GUITAR.exe
+C:\Users\risen\OneDrive\QUATER ONE\GISOS3\GUITAR\bin\Debug\GUITAR.pdb
+C:\Users\risen\OneDrive\QUATER ONE\GISOS3\GUITAR\obj\Debug\GUITAR.csprojAssemblyReference.cache
+C:\Users\risen\OneDrive\QUATER ONE\GISOS3\GUITAR\obj\Debug\GUITAR.Form1.resources
+C:\Users\risen\OneDrive\QUATER ONE\GISOS3\GUITAR\obj\Debug\GUITAR.Properties.Resources.resources
+C:\Users\risen\OneDrive\QUATER ONE\GISOS3\GUITAR\obj\Debug\GUITAR.csproj.GenerateResource.cache
+C:\Users\risen\OneDrive\QUATER ONE\GISOS3\GUITAR\obj\Debug\GUITAR.csproj.CoreCompileInputs.cache
+C:\Users\risen\OneDrive\QUATER ONE\GISOS3\GUITAR\obj\Debug\GUITAR.exe
+C:\Users\risen\OneDrive\QUATER ONE\GISOS3\GUITAR\obj\Debug\GUITAR.pdb
+C:\Users\risen\OneDrive\QUATER ONE\GISOS3\GUITAR\bin\Debug\Database1.mdf
+C:\Users\risen\OneDrive\QUATER ONE\GISOS3\GUITAR\bin\Debug\Database1_log.ldf
+C:\Users\risen\OneDrive\QUATER ONE\GISOS3\GUITAR\bin\Debug\GUITAR.exe.manifest
+C:\Users\risen\OneDrive\QUATER ONE\GISOS3\GUITAR\bin\Debug\GUITAR.application
+C:\Users\risen\OneDrive\QUATER ONE\GISOS3\GUITAR\obj\Debug\GUITAR.exe.manifest
+C:\Users\risen\OneDrive\QUATER ONE\GISOS3\GUITAR\obj\Debug\GUITAR.application
+C:\Users\risen\Desktop\GUITAR\bin\Debug\Database1.mdf
+C:\Users\risen\Desktop\GUITAR\bin\Debug\Database1_log.ldf
+C:\Users\risen\Desktop\GUITAR\bin\Debug\GUITAR.exe.config
+C:\Users\risen\Desktop\GUITAR\bin\Debug\GUITAR.exe.manifest
+C:\Users\risen\Desktop\GUITAR\bin\Debug\GUITAR.application
+C:\Users\risen\Desktop\GUITAR\bin\Debug\GUITAR.exe
+C:\Users\risen\Desktop\GUITAR\bin\Debug\GUITAR.pdb
+C:\Users\risen\Desktop\GUITAR\obj\Debug\GUITAR.csprojAssemblyReference.cache
+C:\Users\risen\Desktop\GUITAR\obj\Debug\GUITAR.Form1.resources
+C:\Users\risen\Desktop\GUITAR\obj\Debug\GUITAR.Properties.Resources.resources
+C:\Users\risen\Desktop\GUITAR\obj\Debug\GUITAR.csproj.GenerateResource.cache
+C:\Users\risen\Desktop\GUITAR\obj\Debug\GUITAR.csproj.CoreCompileInputs.cache
+C:\Users\risen\Desktop\GUITAR\obj\Debug\GUITAR.exe.manifest
+C:\Users\risen\Desktop\GUITAR\obj\Debug\GUITAR.application
+C:\Users\risen\Desktop\GUITAR\obj\Debug\GUITAR.exe
+C:\Users\risen\Desktop\GUITAR\obj\Debug\GUITAR.pdb
+C:\Users\risen\Desktop\Guitar\obj\Debug\GUITAR.Form2.resources
+C:\Users\risen\Desktop\Guitar\obj\Debug\GUITAR.Form3.resources
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业2\GUITAR\bin\Debug\Database1.mdf
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业2\GUITAR\bin\Debug\Database1_log.ldf
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业2\GUITAR\bin\Debug\GUITAR.exe.config
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业2\GUITAR\bin\Debug\GUITAR.exe.manifest
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业2\GUITAR\bin\Debug\GUITAR.application
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业2\GUITAR\bin\Debug\GUITAR.exe
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业2\GUITAR\bin\Debug\GUITAR.pdb
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业2\GUITAR\obj\Debug\GUITAR.csprojAssemblyReference.cache
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业2\GUITAR\obj\Debug\GUITAR.Form1.resources
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业2\GUITAR\obj\Debug\GUITAR.Form2.resources
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业2\GUITAR\obj\Debug\GUITAR.Form3.resources
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业2\GUITAR\obj\Debug\GUITAR.Properties.Resources.resources
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业2\GUITAR\obj\Debug\GUITAR.csproj.GenerateResource.cache
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业2\GUITAR\obj\Debug\GUITAR.csproj.CoreCompileInputs.cache
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业2\GUITAR\obj\Debug\GUITAR.exe.manifest
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业2\GUITAR\obj\Debug\GUITAR.application
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业2\GUITAR\obj\Debug\GUITAR.exe
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业2\GUITAR\obj\Debug\GUITAR.pdb
+C:\Users\risen\OneDrive\QUATER TWO\GISOS GUITAR优化\GUITAR\obj\Debug\GUITAR.csprojAssemblyReference.cache
+C:\Users\risen\OneDrive\QUATER TWO\GISOS GUITAR优化\GUITAR\obj\Debug\GUITAR.Form1.resources
+C:\Users\risen\OneDrive\QUATER TWO\GISOS GUITAR优化\GUITAR\obj\Debug\GUITAR.Form2.resources
+C:\Users\risen\OneDrive\QUATER TWO\GISOS GUITAR优化\GUITAR\obj\Debug\GUITAR.Form3.resources
+C:\Users\risen\OneDrive\QUATER TWO\GISOS GUITAR优化\GUITAR\obj\Debug\GUITAR.Properties.Resources.resources
+C:\Users\risen\OneDrive\QUATER TWO\GISOS GUITAR优化\GUITAR\obj\Debug\GUITAR.csproj.GenerateResource.cache
+C:\Users\risen\OneDrive\QUATER TWO\GISOS GUITAR优化\GUITAR\obj\Debug\GUITAR.csproj.CoreCompileInputs.cache
+C:\Users\risen\OneDrive\QUATER TWO\GISOS GUITAR优化\GUITAR\obj\Debug\GUITAR.exe
+C:\Users\risen\OneDrive\QUATER TWO\GISOS GUITAR优化\GUITAR\obj\Debug\GUITAR.pdb
+C:\Users\risen\OneDrive\QUATER TWO\GISOS GUITAR优化\GUITAR\bin\Debug\Database1.mdf
+C:\Users\risen\OneDrive\QUATER TWO\GISOS GUITAR优化\GUITAR\bin\Debug\Database1_log.ldf
+C:\Users\risen\OneDrive\QUATER TWO\GISOS GUITAR优化\GUITAR\bin\Debug\GUITAR.exe.config
+C:\Users\risen\OneDrive\QUATER TWO\GISOS GUITAR优化\GUITAR\bin\Debug\GUITAR.exe.manifest
+C:\Users\risen\OneDrive\QUATER TWO\GISOS GUITAR优化\GUITAR\bin\Debug\GUITAR.application
+C:\Users\risen\OneDrive\QUATER TWO\GISOS GUITAR优化\GUITAR\bin\Debug\GUITAR.exe
+C:\Users\risen\OneDrive\QUATER TWO\GISOS GUITAR优化\GUITAR\bin\Debug\GUITAR.pdb
+C:\Users\risen\OneDrive\QUATER TWO\GISOS GUITAR优化\GUITAR\obj\Debug\GUITAR.exe.manifest
+C:\Users\risen\OneDrive\QUATER TWO\GISOS GUITAR优化\GUITAR\obj\Debug\GUITAR.application
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业3\GUITAR\bin\Debug\Database1.mdf
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业3\GUITAR\bin\Debug\Database1_log.ldf
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业3\GUITAR\bin\Debug\GUITAR.exe.config
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业3\GUITAR\bin\Debug\GUITAR.exe.manifest
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业3\GUITAR\bin\Debug\GUITAR.application
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业3\GUITAR\bin\Debug\GUITAR.exe
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业3\GUITAR\bin\Debug\GUITAR.pdb
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业3\GUITAR\obj\Debug\GUITAR.csprojAssemblyReference.cache
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业3\GUITAR\obj\Debug\GUITAR.Form1.resources
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业3\GUITAR\obj\Debug\GUITAR.Form2.resources
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业3\GUITAR\obj\Debug\GUITAR.Form3.resources
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业3\GUITAR\obj\Debug\GUITAR.Properties.Resources.resources
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业3\GUITAR\obj\Debug\GUITAR.csproj.GenerateResource.cache
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业3\GUITAR\obj\Debug\GUITAR.csproj.CoreCompileInputs.cache
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业3\GUITAR\obj\Debug\GUITAR.exe.manifest
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业3\GUITAR\obj\Debug\GUITAR.application
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业3\GUITAR\obj\Debug\GUITAR.exe
+C:\Users\risen\OneDrive\QUATER TWO\GISOS2\作业3\GUITAR\obj\Debug\GUITAR.pdb

@@ -1,0 +1,3 @@
+﻿serialNumber;price;builder;model;type;backWood;topWood;species;numString/style
+V10101;1219.23;Fender;Stratocastor;electric;Alder;Alder;Guitar;12
+V10102;2319.23;Fender;Stratocastor;electric;Alder;Alder;Mandolin;A
